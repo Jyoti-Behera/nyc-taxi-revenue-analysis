@@ -147,10 +147,10 @@ Encouraging digital payment adoption can improve overall taxi driver earnings an
 ## 👩‍💻 Author
 
 **Jyoti Behera**  
-Frontend & Data Analytics Enthusiast  
+Data Analytics Enthusiast  
 📍 Bhubaneswar, Odisha, India  
 
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/jyoti-behera-5283a72a7)
+
 
 ---
 
